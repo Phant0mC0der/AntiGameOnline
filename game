@@ -1,0 +1,323 @@
+1#3 Kingdoms#
+udp;42051:42052;
+
+2#8-Pool (Miniclips)#
+tcp;4000;
+
+3#Age Of Wushu#
+tcp;2001:2003;
+
+4#Anime Fighter Online Indonesia#
+tcp;13412;
+
+5#Atlantica#
+tcp;4300;
+
+6#AVALON#
+tcp;9376:9377;
+
+7#Ayo Dance#
+tcp;18901:18909;
+
+8#Ayo Oke#
+tcp;28001:28010;
+udp;26001:26010;
+
+9#Battle of The Immortals#
+tcp;30001:30003;
+
+10#BlackSquad (BS) Indonesia#
+tpc;61000:62000;
+udp;50009:50040;
+
+11#Cabal Indo#
+tcp;15001:15002;
+
+12#CastleVille#
+tcp;8890;
+
+13#Chaos Online ID (Indonesia)#
+udp;20000:20020;
+tcp;30000:30050;
+
+14#Clash Of Clans (COC)#
+tcp;9330:9340;
+
+15#Counter Strike Online#
+tcp;36567;
+tcp;8001;
+udp;8001;
+
+16#Crazy Shooter#
+tcp;7200;
+tcp;7400;
+tcp;7106;
+tcp;7999;
+tcp;47611;
+tcp;36567;
+udp;10087;
+udp;7200;
+
+17#CrazyKart#
+tcp;9601:9602;
+
+18#CrazyKart 2#
+tcp;9600;
+
+19#CrossFire#
+tcp;10009;
+udp;12060:12070;
+
+20#Dizzel Indonesia#
+tcp;28000:28020;
+tcp;7320:7350;
+udp;49330:49350;
+udp;29000:29010;
+
+21#Domino QQ#
+tcp;9122;
+tcp;11000:11150;
+
+22#Dota#
+tcp;6000:6152;
+
+23#DragonNest Online Indonesia#
+tcp;14300:14440;
+udp;15100:15150;
+
+24#DriftCity#
+tcp;11011:11041;
+
+25#ECO Online#
+tcp;12011;
+tcp;12110;
+
+26#Eden Eternal (Aeria Games)#
+tcp;5567:5570;
+tcp;6543:6546;
+udp;10020:10022;
+
+27#Eligium Online Indonesia (Gemscool)#
+tcp;8086;
+tcp;9090:9099;
+
+28#Elsword Indonesia#
+udp;14101:14105;
+tcp;14300:14310;
+
+29#Empire & Allies#
+tcp;8890;
+
+30#FastBlack#
+tcp;6000:6001;
+
+31#FIFA Online 3#
+tcp;7770:7790;
+udp;16320;16340;
+
+32#Forsaken World Indonesia#
+tcp;29001;
+
+33#Free Style#
+tcp;10001:10011;
+tcp;40000;
+udp;40040:40500;
+udp;1293;
+udp;1479;
+
+34#FreeJack#
+tcp;20101:20301;
+udp;1660:2960;
+
+35#Fresh Ragnarok PS#
+tcp;5171;
+
+36#FreshRO#
+tcp;5126;
+
+37#GetAmped#
+tcp;13413;
+
+38#GhostOnline#
+tcp;19101;
+
+39#Grand Chase#
+tcp;9300;
+tcp;9400;
+tcp;9700;
+udp;9401;
+udp;9600;
+
+40#Headshot#
+tcp;1800:1810;
+udp;1845:1860;
+
+41#Heroes Of Newearth Incatamers#
+tcp;11031;
+udp;11100:11125;
+udp;11440;11460;
+
+42#IdolStreet#
+tcp;2001;
+
+43#Jade Dynasty Indonesia#
+tcp;29000;
+
+44#Kart Rider#
+tcp;39311;
+udp;39311;
+
+45#Knight Age indonesia
+tcp;15500;
+tcp;5101;
+tcp;5201;
+udp;15500;
+udp;5101;
+udp;5201;
+
+46#LINE Get Rich#
+tcp;10500:10515;
+
+47#Lineage2#
+tcp;7777;
+
+48#Lost Saga#
+tcp;14000:14050;
+udp;14000:14050;
+
+49#Luna Online#
+tcp;15000:15002;
+
+50#Megarealm: Rise Of Chaos#
+tcp;26590:26600;
+
+51#Mercenary opz#
+udp;53;
+tcp;443;
+tcp;39190;
+tcp;6112;
+tcp;6000:6099;
+
+53#Modoo Marble#
+udp;27019;
+tcp;28901:28920;
+
+54#Musuh abadi (Maingames)#
+tcp;12310:12320;
+udp;12310:12320;
+
+55#Perfect world#
+tcp;29000;
+
+56#Perjuangan Semut#
+tcp;7200:7210;
+tcp;7450:7460;
+
+57#PointBlank (PB Garena)#
+tcp;39190:49100;
+udp;40000:40010;
+
+
+58#Ragnarok Online 2#
+tcp;7201:7208;
+tcp;7401;
+udp;17001:17002;
+
+59#RAN Online#
+tcp;5105;
+
+60#Return Of Warrior#
+tcp;10402;
+
+61#RF-Elven#
+tcp;27780;
+
+62#Rohan#
+tcp;22100;
+
+63#Rose Online#
+tcp;29200;
+
+64#Runes Of Magic#
+tcp;16402:16502;
+
+65#S4 League Indonesia (Lyto)#
+udp;54500:56500;
+tcp;16666:16668;
+tcp;28000:28013;
+
+66#SD Gundam Capsule Fighter Online#
+tcp;5000:5020;
+udp;12000:15900;
+
+67#SealOnline#
+tcp;1818;
+
+68#Seven Knights (Netmarble)#
+tcp;12000:12010;
+
+69#Shadow Company (Qeon)#
+udp;50000:50100;
+tcp;10500:10610;
+
+70#Special Force 2 (SF2)#
+udp;30000:30030;
+tcp;27930:27940;
+
+71#STEAM GAMES (Dota2-CSGO-TF2-PORTAL)#
+udp;27000:27015;
+udp;27015:27030;
+tcp;27014:27050;
+udp;27031:27036;
+tcp;27036:27037;
+udp;4380;
+tcp;27015;
+udp;3478;
+udp;4379;
+udp;4380;
+udp;1500;
+udp;3005;
+udp;3101;
+udp;28960;
+
+72#Tales Hero Indonesia#
+tcp;9000;
+tcp;9150:9160;
+
+73#Tantra Online#
+tcp;3010;
+
+74#Texas HoldEm Poker#
+tcp;9339;
+
+75#Warflare#
+tcp;64990:65010;
+
+76#WarRock#
+tcp;5340:5352;
+
+77#Wild Ones#
+tcp;8000;
+
+78#WOW AMPM#
+tcp;8085;
+
+79#X-SHOT#
+tcp;7341:7350;
+tcp;7451;
+udp;7777:7977;
+udp;30000;
+
+80#Yullgang#
+tcp;19000;
+
+81#Zeus RO#
+tcp;5121;
+
+82#Mobile Legends Bang Bang#
+tcp;30100:30110;
+
+83#Garena AOV (Arena Of Valor)#
+tcp;10001:10094;
+udp;10080:17000;
+
